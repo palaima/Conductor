@@ -1,4 +1,4 @@
-include ':conductor'
+include ':conductor', ':myapplication'
 include ':conductor-support'
 include ':conductor-rxlifecycle'
 include ':conductor-rxlifecycle2'
